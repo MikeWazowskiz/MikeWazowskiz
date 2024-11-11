@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy MiKe.
 
-<!--
-**MikeWazowskiz/MikeWazowskiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos, y experimentos en desarrollo. 
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** HTML, CSS, JavaScript, Java
+- **Frameworks y Librerías:** Node.js, Express,
+- **Herramientas:** VS Code, Git, IntelliJ IDEA
+
+## 🚀 Proyectos Destacados
+
+## 📫 Contáctame
+
+- **Email:** surfinthecode@proton.me
+
+---
+
+¡Gracias por visitar mi perfil!
